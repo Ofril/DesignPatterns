@@ -17,7 +17,7 @@ namespace StateV2
         {
             failsLeft--;
 
-            if (pass.Equals(password))
+            if (pass.Equals(PASSWORD))
             {
                 Console.WriteLine("Loggin in");
                 ctx.State = new LoginSucceed(ctx);

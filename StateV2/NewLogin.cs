@@ -14,7 +14,7 @@ namespace StateV2
 
         public override void Login(string pass)
         {
-            if (pass.Equals(password))
+            if (pass.Equals(PASSWORD))
             {
                 Console.WriteLine("Logging in");
                 ctx.State = new LoginSucceed(ctx);

@@ -8,7 +8,7 @@ namespace StateV2
 {
     public abstract class LoginBase : ILoginState
     {
-        protected const string password = "12345";
+        protected const string PASSWORD = "12345";
         protected Context ctx;
 
         protected LoginBase(Context ctx)
