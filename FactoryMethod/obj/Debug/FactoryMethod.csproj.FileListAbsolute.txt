@@ -1,0 +1,6 @@
+C:\Users\HackerU\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\HackerU\source\repos\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\HackerU\source\repos\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\HackerU\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\HackerU\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
