@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\PrototypeWebInfo\PrototypeWebInfo\bin\Debug\PrototypeWebInfo.exe.config
+c:\users\hackeru\source\repos\PrototypeWebInfo\PrototypeWebInfo\bin\Debug\PrototypeWebInfo.exe
+c:\users\hackeru\source\repos\PrototypeWebInfo\PrototypeWebInfo\bin\Debug\PrototypeWebInfo.pdb
+c:\users\hackeru\source\repos\PrototypeWebInfo\PrototypeWebInfo\obj\Debug\PrototypeWebInfo.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\PrototypeWebInfo\PrototypeWebInfo\obj\Debug\PrototypeWebInfo.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\PrototypeWebInfo\PrototypeWebInfo\obj\Debug\PrototypeWebInfo.exe
+c:\users\hackeru\source\repos\PrototypeWebInfo\PrototypeWebInfo\obj\Debug\PrototypeWebInfo.pdb
