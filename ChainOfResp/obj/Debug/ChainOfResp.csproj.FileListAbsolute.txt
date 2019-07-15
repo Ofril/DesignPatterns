@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\ChainOfResp\ChainOfResp\bin\Debug\ChainOfResp.exe.config
+c:\users\hackeru\source\repos\ChainOfResp\ChainOfResp\bin\Debug\ChainOfResp.exe
+c:\users\hackeru\source\repos\ChainOfResp\ChainOfResp\bin\Debug\ChainOfResp.pdb
+c:\users\hackeru\source\repos\ChainOfResp\ChainOfResp\obj\Debug\ChainOfResp.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\ChainOfResp\ChainOfResp\obj\Debug\ChainOfResp.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\ChainOfResp\ChainOfResp\obj\Debug\ChainOfResp.exe
+c:\users\hackeru\source\repos\ChainOfResp\ChainOfResp\obj\Debug\ChainOfResp.pdb
