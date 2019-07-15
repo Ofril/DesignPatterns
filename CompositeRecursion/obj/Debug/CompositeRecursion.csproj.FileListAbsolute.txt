@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\CompositeRecursion\CompositeRecursion\bin\Debug\CompositeRecursion.exe.config
+c:\users\hackeru\source\repos\CompositeRecursion\CompositeRecursion\bin\Debug\CompositeRecursion.exe
+c:\users\hackeru\source\repos\CompositeRecursion\CompositeRecursion\bin\Debug\CompositeRecursion.pdb
+c:\users\hackeru\source\repos\CompositeRecursion\CompositeRecursion\obj\Debug\CompositeRecursion.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\CompositeRecursion\CompositeRecursion\obj\Debug\CompositeRecursion.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\CompositeRecursion\CompositeRecursion\obj\Debug\CompositeRecursion.exe
+c:\users\hackeru\source\repos\CompositeRecursion\CompositeRecursion\obj\Debug\CompositeRecursion.pdb
