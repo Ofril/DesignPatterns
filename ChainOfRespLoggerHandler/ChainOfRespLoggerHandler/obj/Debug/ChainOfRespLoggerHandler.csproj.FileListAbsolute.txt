@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\ChainOfRespLoggerHandler\ChainOfRespLoggerHandler\bin\Debug\ChainOfRespLoggerHandler.exe.config
+c:\users\hackeru\source\repos\ChainOfRespLoggerHandler\ChainOfRespLoggerHandler\bin\Debug\ChainOfRespLoggerHandler.exe
+c:\users\hackeru\source\repos\ChainOfRespLoggerHandler\ChainOfRespLoggerHandler\bin\Debug\ChainOfRespLoggerHandler.pdb
+c:\users\hackeru\source\repos\ChainOfRespLoggerHandler\ChainOfRespLoggerHandler\obj\Debug\ChainOfRespLoggerHandler.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\ChainOfRespLoggerHandler\ChainOfRespLoggerHandler\obj\Debug\ChainOfRespLoggerHandler.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\ChainOfRespLoggerHandler\ChainOfRespLoggerHandler\obj\Debug\ChainOfRespLoggerHandler.exe
+c:\users\hackeru\source\repos\ChainOfRespLoggerHandler\ChainOfRespLoggerHandler\obj\Debug\ChainOfRespLoggerHandler.pdb
