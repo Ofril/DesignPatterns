@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\Adapter\Adapter\bin\Debug\Adapter.exe.config
+c:\users\hackeru\source\repos\Adapter\Adapter\bin\Debug\Adapter.exe
+c:\users\hackeru\source\repos\Adapter\Adapter\bin\Debug\Adapter.pdb
+c:\users\hackeru\source\repos\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\Adapter\Adapter\obj\Debug\Adapter.exe
+c:\users\hackeru\source\repos\Adapter\Adapter\obj\Debug\Adapter.pdb
