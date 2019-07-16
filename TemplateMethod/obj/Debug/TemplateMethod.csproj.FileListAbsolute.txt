@@ -1,0 +1,6 @@
+c:\users\hackeru\source\repos\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+c:\users\hackeru\source\repos\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+c:\users\hackeru\source\repos\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+c:\users\hackeru\source\repos\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+c:\users\hackeru\source\repos\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
