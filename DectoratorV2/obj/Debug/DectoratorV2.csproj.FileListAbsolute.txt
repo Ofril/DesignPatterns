@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\DectoratorV2\DectoratorV2\bin\Debug\DectoratorV2.exe.config
+c:\users\hackeru\source\repos\DectoratorV2\DectoratorV2\bin\Debug\DectoratorV2.exe
+c:\users\hackeru\source\repos\DectoratorV2\DectoratorV2\bin\Debug\DectoratorV2.pdb
+c:\users\hackeru\source\repos\DectoratorV2\DectoratorV2\obj\Debug\DectoratorV2.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\DectoratorV2\DectoratorV2\obj\Debug\DectoratorV2.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\DectoratorV2\DectoratorV2\obj\Debug\DectoratorV2.exe
+c:\users\hackeru\source\repos\DectoratorV2\DectoratorV2\obj\Debug\DectoratorV2.pdb
