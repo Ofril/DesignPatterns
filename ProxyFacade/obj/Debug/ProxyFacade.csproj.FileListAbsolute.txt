@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\ProxyFacade\ProxyFacade\obj\Debug\ProxyFacade.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\ProxyFacade\ProxyFacade\obj\Debug\ProxyFacade.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\ProxyFacade\ProxyFacade\bin\Debug\ProxyFacade.exe.config
+c:\users\hackeru\source\repos\ProxyFacade\ProxyFacade\bin\Debug\ProxyFacade.exe
+c:\users\hackeru\source\repos\ProxyFacade\ProxyFacade\bin\Debug\ProxyFacade.pdb
+c:\users\hackeru\source\repos\ProxyFacade\ProxyFacade\obj\Debug\ProxyFacade.exe
+c:\users\hackeru\source\repos\ProxyFacade\ProxyFacade\obj\Debug\ProxyFacade.pdb
