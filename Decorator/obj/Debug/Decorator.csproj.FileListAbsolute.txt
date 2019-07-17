@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\Decorator\Decorator\bin\Debug\Decorator.exe.config
+c:\users\hackeru\source\repos\Decorator\Decorator\bin\Debug\Decorator.exe
+c:\users\hackeru\source\repos\Decorator\Decorator\bin\Debug\Decorator.pdb
+c:\users\hackeru\source\repos\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\Decorator\Decorator\obj\Debug\Decorator.exe
+c:\users\hackeru\source\repos\Decorator\Decorator\obj\Debug\Decorator.pdb
