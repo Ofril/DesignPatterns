@@ -12,9 +12,9 @@ namespace Strategy
         protected ISort sorter;
         private const int NUMBER = 5;
 
-        public NumberCollection(ISort sorter)
+        public NumberCollection()
         {
-            this.sorter = sorter;
+            this.sorter = new MergeSort();
         }
 
         public void Add(int num)

@@ -10,7 +10,7 @@ namespace Strategy
     {
         static void Main(string[] args)
         {
-            NumberCollection collection = new NumberCollection(new MergeSort());
+            NumberCollection collection = new NumberCollection();
             collection.Add(1);
             collection.Add(5);
             collection.Add(4);
