@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\finalTest\Ex8\Ex8\bin\Debug\Ex8.exe.config
+C:\Users\HackerU\source\repos\finalTest\Ex8\Ex8\bin\Debug\Ex8.exe
+C:\Users\HackerU\source\repos\finalTest\Ex8\Ex8\bin\Debug\Ex8.pdb
+C:\Users\HackerU\source\repos\finalTest\Ex8\Ex8\obj\Debug\Ex8.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\repos\finalTest\Ex8\Ex8\obj\Debug\Ex8.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\finalTest\Ex8\Ex8\obj\Debug\Ex8.exe
+C:\Users\HackerU\source\repos\finalTest\Ex8\Ex8\obj\Debug\Ex8.pdb
