@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\finalTest\Ex2\Ex2\bin\Debug\Ex2.exe.config
+c:\users\hackeru\source\repos\finalTest\Ex2\Ex2\bin\Debug\Ex2.exe
+c:\users\hackeru\source\repos\finalTest\Ex2\Ex2\bin\Debug\Ex2.pdb
+c:\users\hackeru\source\repos\finalTest\Ex2\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\finalTest\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\finalTest\Ex2\Ex2\obj\Debug\Ex2.exe
+c:\users\hackeru\source\repos\finalTest\Ex2\Ex2\obj\Debug\Ex2.pdb
