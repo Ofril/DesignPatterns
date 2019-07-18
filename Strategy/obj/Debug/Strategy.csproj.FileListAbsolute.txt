@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\Strategy\Strategy\bin\Debug\Strategy.exe.config
+c:\users\hackeru\source\repos\Strategy\Strategy\bin\Debug\Strategy.exe
+c:\users\hackeru\source\repos\Strategy\Strategy\bin\Debug\Strategy.pdb
+c:\users\hackeru\source\repos\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\Strategy\Strategy\obj\Debug\Strategy.exe
+c:\users\hackeru\source\repos\Strategy\Strategy\obj\Debug\Strategy.pdb
