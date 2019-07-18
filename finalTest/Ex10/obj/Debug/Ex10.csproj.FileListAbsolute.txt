@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\finalTest\Ex10\Ex10\bin\Debug\Ex10.exe.config
+c:\users\hackeru\source\repos\finalTest\Ex10\Ex10\bin\Debug\Ex10.exe
+c:\users\hackeru\source\repos\finalTest\Ex10\Ex10\bin\Debug\Ex10.pdb
+c:\users\hackeru\source\repos\finalTest\Ex10\Ex10\obj\Debug\Ex10.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\finalTest\Ex10\Ex10\obj\Debug\Ex10.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\finalTest\Ex10\Ex10\obj\Debug\Ex10.exe
+c:\users\hackeru\source\repos\finalTest\Ex10\Ex10\obj\Debug\Ex10.pdb
