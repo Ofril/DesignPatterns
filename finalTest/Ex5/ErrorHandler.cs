@@ -23,11 +23,11 @@ namespace Ex5
                 next.Handle(log, level);
             }
         }
-
+ 
         private void WriteToFile(string log)
         {
             Console.WriteLine("Writing error to file...");
-            File.AppendAllText(@"c:\Users\HackerU\source\repos\finalTest\Ex5\Ex5\log.txt", Environment.NewLine + "ERROR: " + log);
+            File.AppendAllText(@"c:\Users\HackerU\source\repos\finalTest\Ex5\Ex5\log.txt", "ERROR: " + log + Environment.NewLine);
         }
     }
 }

@@ -26,7 +26,7 @@ namespace Ex5
         private void WriteToFile(string log)
         {
             Console.WriteLine("Writing fatal to file...");
-            File.AppendAllText(@"c:\Users\HackerU\source\repos\finalTest\Ex5\Ex5\log.txt", Environment.NewLine + "FATAL: " + log);
+            File.AppendAllText(@"c:\Users\HackerU\source\repos\finalTest\Ex5\Ex5\log.txt", "FATAL: " + log + Environment.NewLine);
         }
     }
 }
